@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{58C75CB0-88B9-ED9B-2808-69EE8208B05E}") = "acFonts", "Assembly-CSharp.csproj", "{0CCA9CD7-66EF-773A-DC96-6F3E297892A2}"
+EndProject
+Project("{58C75CB0-88B9-ED9B-2808-69EE8208B05E}") = "acFonts", "Assembly-CSharp-Editor.csproj", "{15B7D1AA-E02C-B18E-B61D-CF1D0E469C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCA9CD7-66EF-773A-DC96-6F3E297892A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCA9CD7-66EF-773A-DC96-6F3E297892A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCA9CD7-66EF-773A-DC96-6F3E297892A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCA9CD7-66EF-773A-DC96-6F3E297892A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B7D1AA-E02C-B18E-B61D-CF1D0E469C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B7D1AA-E02C-B18E-B61D-CF1D0E469C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B7D1AA-E02C-B18E-B61D-CF1D0E469C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B7D1AA-E02C-B18E-B61D-CF1D0E469C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

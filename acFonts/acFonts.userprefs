@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/shader/vertex animation.shader">
+    <Files>
+      <File FileName="Assets/Surface/SurfaceCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Surface/Editor/SurfaceCreatorInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Surface/Surface Shader.shader" Line="1" Column="1" />
+      <File FileName="Assets/Surface/SurfaceFlow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Surface/Flow3D.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/AnalyzeMesh.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DivideMesh.cs" Line="1" Column="1" />
+      <File FileName="Assets/shader/vertex animation.shader" Line="60" Column="25" />
+      <File FileName="Assets/shader/Transform Vertex.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
